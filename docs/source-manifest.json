@@ -1,0 +1,230 @@
+{
+  "inspected_at": "2026-10-28",
+  "import_mode": "reviewed-subset-not-deployable",
+  "projects": [
+    {
+      "name": "planejamento",
+      "sites_version_observed": 136,
+      "source_commit": "28df0c9fdc7384cc8fdb8637f4ea8ba8138804d0",
+      "source_file_count": 531,
+      "imported_files": [
+        {
+          "path": "db/schema.ts",
+          "sha256": "5821d09b931756d4dcdad915b60b2051f290115d9e107d45f88b8ad8ebaebf50"
+        },
+        {
+          "path": "package.json",
+          "sha256": "adca88d19c33343fcfa1988e9c7e35fa90e4f54c2e7d09ebd7d6a91c0c88e947"
+        },
+        {
+          "path": "pnpm-lock.yaml",
+          "sha256": "d83e6ab35c025935cb9e38a84559825df1a70c92a8714545d84afe4bc4fd4a2e"
+        },
+        {
+          "path": "drizzle/0000_soft_hellion.sql",
+          "sha256": "ce307ebadc9c410e7030b4f5843780e95194777f6fa0f68e588b53e10bdc006c"
+        },
+        {
+          "path": "drizzle/0001_next_living_mummy.sql",
+          "sha256": "7ac702763265c53b90ded70de0af8bfb46f85e57f5c15a7586d702756775047e"
+        },
+        {
+          "path": "drizzle/0002_awesome_phantom_reporter.sql",
+          "sha256": "33c52a2063cffa8fa61646d491c6eb4ce1c6f20976d5916c9815127e480e6ad2"
+        },
+        {
+          "path": "drizzle/0003_daily_moon_knight.sql",
+          "sha256": "ccbd295b35abdab6c9e85a2c187ff44142a2c83fc1420d4f0f711f9c94c06beb"
+        },
+        {
+          "path": "drizzle/0004_glamorous_marauders.sql",
+          "sha256": "f199129f6f8b19c89537bcf13f8e470e898a8b6ad6638310e741cc9a9b4b850e"
+        },
+        {
+          "path": "drizzle/0005_awesome_sphinx.sql",
+          "sha256": "aa09d40d23766a02ff066bdb40b37a92d66bf35b6cf1d7ae0d8136277784e089"
+        },
+        {
+          "path": "drizzle/0006_aromatic_shaman.sql",
+          "sha256": "b1f469d79a2d741eb605a906349ebe6e908080f4aa17d4a994d24ea3ffcfa861"
+        },
+        {
+          "path": "drizzle/0007_remarkable_george_stacy.sql",
+          "sha256": "2c5ee5d6d1f46ad7f013fd2f0da2292250eda1c3bb16452089698b5f285ebe81"
+        },
+        {
+          "path": "drizzle/0008_faithful_corsair.sql",
+          "sha256": "482b71c438708c9487a6b5d84abad5c3b9ce225b75db1c21b14af9cac3137df6"
+        },
+        {
+          "path": "drizzle/0009_kind_doctor_doom.sql",
+          "sha256": "557fd08d7a3a003df3708cb4e6d3874c18587b4cc833c120104249f043c72245"
+        },
+        {
+          "path": "drizzle/0010_silent_valkyrie.sql",
+          "sha256": "33a171137d85fe627192ffe1f1e984943f4c08d1cee9f88315b428cc06b2f13c"
+        },
+        {
+          "path": "drizzle/meta/0000_snapshot.json",
+          "sha256": "21d28dca8de7ee8bf91411e55b4c91285c4fd74608060e607a874457cad8d637"
+        },
+        {
+          "path": "drizzle/meta/0001_snapshot.json",
+          "sha256": "1f1a76e2181905fb59fb3f1ffb41db1a359afbc2321e9d38a008fb90dff8f20e"
+        },
+        {
+          "path": "drizzle/meta/0002_snapshot.json",
+          "sha256": "61c94249ba0db82a4962f694773de3a006856dcbb8580dd14ce99034e85864c6"
+        },
+        {
+          "path": "drizzle/meta/0003_snapshot.json",
+          "sha256": "559e2bf9d12367d93738a69d6d11618ae4999b268b3bc0021d1858d3a6b2d193"
+        },
+        {
+          "path": "drizzle/meta/0004_snapshot.json",
+          "sha256": "18a6fc24bb829270b8f33b1adc802e00721fda3f48e7a554bc6384cc8f9dd380"
+        },
+        {
+          "path": "drizzle/meta/0005_snapshot.json",
+          "sha256": "5286c6d6873b20c8cb7628688a571ff6330e27a1fed09073a72a484d1777f204"
+        },
+        {
+          "path": "drizzle/meta/0006_snapshot.json",
+          "sha256": "1551dcbb7a7b4a013f926affdb78e6f6de892f94aabedf7c7f5085c77b0084f9"
+        },
+        {
+          "path": "drizzle/meta/0007_snapshot.json",
+          "sha256": "7eeefc84828328021e4171f3c31b484279dce8a527aa4a61c509ea323d91c750"
+        },
+        {
+          "path": "drizzle/meta/0008_snapshot.json",
+          "sha256": "665c5c3e18052bd9f2e77875ac1bb5e48961ee3aaec925670201a7c807c9a147"
+        },
+        {
+          "path": "drizzle/meta/0009_snapshot.json",
+          "sha256": "5beab48e1c44855c6e5706ad51f9f432fe34cf98c8bd187cd9b9e4c0e3297f8d"
+        },
+        {
+          "path": "drizzle/meta/0010_snapshot.json",
+          "sha256": "11dba9c3964a5347dbabad752c402122f908ca1838038f6709d10f72eb82419c"
+        },
+        {
+          "path": "drizzle/meta/_journal.json",
+          "sha256": "edf93cbd2ff38c9f13fd90925d590c4ffc52e77385f3400736e776499643dbd9"
+        },
+        {
+          "path": "lib/statistics-access.ts",
+          "sha256": "0e2f11be4668960651089af83195e8bee306cc8d7f9109c9f829efa44bb30828"
+        },
+        {
+          "path": "lib/event-deletion.ts",
+          "sha256": "b8d33e97b9fa493202c4162a433f2b4d5b2cc55cdb4d768d549596c9a9fb6283"
+        },
+        {
+          "path": "lib/event-location.ts",
+          "sha256": "5a68a061bdd54d686a0a7d6d7c8b8469999ac94fc6e098e5c068157cc49fb399"
+        }
+      ]
+    },
+    {
+      "name": "eleicoes",
+      "sites_version_observed": 144,
+      "source_commit": "4b5e3a042799f8718f9a3e3a22a37b58c32f4508",
+      "source_file_count": 336,
+      "imported_files": [
+        {
+          "path": "db/schema.ts",
+          "sha256": "9a05aa944e921ade23161254d5fa3a4fb6b5938d42570dfb3e78040cd678869e"
+        },
+        {
+          "path": "package.json",
+          "sha256": "8a1581ff527f751d3b6f86e0da70b7ea9c90c1e8f91561f61d62a691ee29272d"
+        },
+        {
+          "path": "pnpm-lock.yaml",
+          "sha256": "c8e08ec77a9f2c23cf3363e863e48411cc865cfea3aab9c9c2dd436089a7a828"
+        },
+        {
+          "path": "drizzle/0000_third_randall.sql",
+          "sha256": "9474acf4ac7b8f0302bce1d04cdd212b66657525519e297761005ec005f369b5"
+        },
+        {
+          "path": "drizzle/0001_great_monster_badoon.sql",
+          "sha256": "35269e8691158cb32d3f742575f14c36c0a5162153c5aa0e1aa8c1dbd5cb4f82"
+        },
+        {
+          "path": "drizzle/0002_milky_madelyne_pryor.sql",
+          "sha256": "b90b237e9fa816718f9ce306878fd902da1d7ce2ac7f97464f6c4241a2f43492"
+        },
+        {
+          "path": "drizzle/0003_perfect_kulan_gath.sql",
+          "sha256": "62a8914bd6bdee1d28c1c6bd877fa30ce447cc5712bcbe5eb11faccad89eaaa3"
+        },
+        {
+          "path": "drizzle/0004_superb_venom.sql",
+          "sha256": "1145f0df84e460324c203017db0c6b78cb0b3e02ce5f4a3b3e13ec6e8b2dcd2b"
+        },
+        {
+          "path": "drizzle/0005_shiny_rogue.sql",
+          "sha256": "698f198a86710bc02fbc035530a64fa5bdbbd4acf37d71f910d813ac1d229a55"
+        },
+        {
+          "path": "drizzle/0006_long_wonder_man.sql",
+          "sha256": "8d78f667f938e03ca7ab4c166f69f7ca2d597ae3ec82e9f659358e3125ee55eb"
+        },
+        {
+          "path": "drizzle/0007_rich_flatman.sql",
+          "sha256": "d9676f268f3ff9cc71f25756455aadcc58fd2b75ce65e9974c50c82359a5a018"
+        },
+        {
+          "path": "drizzle/0008_yielding_slyde.sql",
+          "sha256": "7ecdcacb9d3a4114acee4f05aab6cc9aa31d515962a017b3c7a7526456d526d8"
+        },
+        {
+          "path": "drizzle/meta/0000_snapshot.json",
+          "sha256": "3111f3c718f6c434b4eb39402944e9164b3f52333b00619374e3d30f1be16e3d"
+        },
+        {
+          "path": "drizzle/meta/0001_snapshot.json",
+          "sha256": "1f72391e1b63a36e53fe2bf36caf2b42cac73af3ca91b335e7ba6af4808212f4"
+        },
+        {
+          "path": "drizzle/meta/0002_snapshot.json",
+          "sha256": "54dbe217ae56baaa46e1e25bfe8e007289249c841d91415a55410863f2ca8af6"
+        },
+        {
+          "path": "drizzle/meta/0003_snapshot.json",
+          "sha256": "99d53b38128a440f4021725c209646e8c0c88c9e6b430533b4bd481124530f4e"
+        },
+        {
+          "path": "drizzle/meta/0004_snapshot.json",
+          "sha256": "3796b3b8bce2d81f472566d860fca74391597e15bc017434eae312ab6bddfd9e"
+        },
+        {
+          "path": "drizzle/meta/0005_snapshot.json",
+          "sha256": "060dce9a7d974dfc93bfb39ae5c5e404926f73b9c7e62c7f411edcc328ea9842"
+        },
+        {
+          "path": "drizzle/meta/0006_snapshot.json",
+          "sha256": "b290452d81941af3b02c37062c3f729cebeb77fe50583a609a984ecf403cc4bb"
+        },
+        {
+          "path": "drizzle/meta/0007_snapshot.json",
+          "sha256": "887bf8add501aebcfee7713e5e459d71f7a061066a48de5bb697a4047fb058b7"
+        },
+        {
+          "path": "drizzle/meta/0008_snapshot.json",
+          "sha256": "32bb4e9497310eb35ee2cc07e50f1eae43ca585db8ff1bef65c2e949b710bb11"
+        },
+        {
+          "path": "drizzle/meta/_journal.json",
+          "sha256": "0966c1ddfe03b797625ee33c69099214a7026f08331613f86876439f2d05e2c6"
+        },
+        {
+          "path": "app/lib/area-access.ts",
+          "sha256": "8eb78f4879d157af3b21ba0941da89f92194560d99d426c419d48d974f16b5fd"
+        }
+      ]
+    }
+  ]
+}

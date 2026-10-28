@@ -1,0 +1,1 @@
+ALTER TABLE `portal_operations` ADD `repeat_until` text;
