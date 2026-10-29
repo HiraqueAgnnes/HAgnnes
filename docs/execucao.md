@@ -2,6 +2,8 @@
 
 ## Estado atual
 
+O incremento de 29/10/2026 acrescenta módulos revisados de autenticação, leitura das planilhas eleitorais, permissões e abertura da pasta de escalas. Consultar [configuração privada](configuracao-privada.md) antes de integrar esses módulos à aplicação completa. O checkout público continua parcial.
+
 Este checkout público é parcial. Não há comandos de instalação/build válidos para executar o portal completo aqui. Os `package.json` e lockfiles dentro de `apps/` são cópias de referência dos aplicativos originais, com scripts cujos arquivos ainda não foram importados.
 
 Os fontes originais usam React 19.2.6, Next 16.3.4, Vinext 1.0.0-beta.5, TypeScript 5.9.3, Vite 8.0.13, Drizzle e Cloudflare Workers. Seus manifests declaram Node >=22.13.0 e pnpm 11.25.0. São versões observadas, não recomendações de atualização.

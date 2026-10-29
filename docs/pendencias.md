@@ -1,5 +1,7 @@
 # Próximas entregas
 
+Atualização de 29/10/2026: a preparação da autenticação eleitoral, das planilhas, da pasta de escalas e das listas de administradores foi implementada com configuração privada e testes sintéticos. A importação integral permanece pendente. Ver [verificação e limites](verificacao-2026-10-29.md) e [continuidade das escalas](configuracao-privada.md).
+
 ## P0 — Separar configuração e dados privados
 
 - Remover dos fontes candidatos a publicação os links que concedem acesso a diretórios e fontes restritas, inclusive autenticação eleitoral.
